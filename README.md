@@ -11,7 +11,7 @@ This project is an advanced AI-driven stock trading simulation platform that lev
 
 ## Introduction
 
-Finance Fellas explores the intersection of AI and finance by developing a sophisticated stock trading system. The project uses LLMs to process and interpret large volumes of financial data, simulating trading scenarios that reflect real-world market conditions. The goal is to create an AI-powered stock trading agent capable of making autonomous and profitable trading decisions.
+LLM Based AI stock agent explores the intersection of AI and finance by developing a sophisticated stock trading system. The project uses LLMs to process and interpret large volumes of financial data, simulating trading scenarios that reflect real-world market conditions. The goal is to create an AI-powered stock trading agent capable of making autonomous and profitable trading decisions.
 
 ## Features
 
