@@ -37,7 +37,11 @@ historical trading data. These models analyze external factors like macroeconomi
 company fundamentals, and global events to make informed trading decisions. The system creates a simulated
 trading environment that replicates real-world market conditions and continuously integrates real-time data to
 enhance decision-making accuracy.
+
 Workflow/Pipeline Diagram:
+
+![System Architecture Diagram](Images/Workflow.jpg)
+
 
 The LLM-based AI StockAgent solution involves several key steps to ensure robust and informed trading decisions.
 First, a diverse dataset is gathered, including historical stock data, financial news articles, macroeconomic
